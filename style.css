@@ -37,6 +37,8 @@ header {
     justify-content: flex-end;
 }
 .languages a {
+    display: flex;
+    align-items: center;
     padding: 5px;
     border-radius: 5px;
     margin: 5px
@@ -48,6 +50,7 @@ header {
 .languages a img {
     width: 25px;
     height: 25px;
+    margin-right: 5px;
 }
 .presentation-container {
     height: 95vh;
