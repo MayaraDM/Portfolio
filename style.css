@@ -103,7 +103,7 @@ header {
     float: left;
     width: 250px;
     height: 250px;
-    border: 5px solid white;
+    border: 5px solid lightgoldenrodyellow;
     border-radius: 50%;
     margin: 0.5rem;
 }
@@ -142,6 +142,8 @@ article h2, article h3 {
 article img {
     width: 350px;
     height: 200px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 /* Skills - HardSkills*/
